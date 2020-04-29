@@ -1,0 +1,5 @@
+firstJoin_message: '&a&l<player> has joined videogames for the first time!'
+
+joinAgain_message: '&b&l<player> is back to games'
+
+leave_message: '&cgoodbye, <player>'

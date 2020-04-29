@@ -1,0 +1,10 @@
+name: HelloWorld
+author: hanthemanson
+version: 1.0
+main: me.hanthemanson.HelloWorld.Main
+description: Hello World Spigot
+
+commands:
+  hello:
+    aliases: [hi]
+    description: hello command

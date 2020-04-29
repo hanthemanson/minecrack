@@ -1,0 +1,6 @@
+name: Listeners
+author: hanthemanson
+version: 1.0
+main: me.hanthemanson.Listeners.Main
+description: join command
+
